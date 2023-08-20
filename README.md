@@ -1,5 +1,5 @@
 ## Hi there, I'm Millie 👋
-A Web designer from Taiwan.<br>
+A web designer from Taiwan.<br>
 I'm recently working hard to learn new things about UI/UX design and front-end programming! <br>
 If you're intreseted, please checkout my portfolio <a href="https://millieqiu-design.webflow.io/">**HERE**🌼</a>.
 <!--
