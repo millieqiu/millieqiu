@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### About me
 - 🎨 All of my UI/UX projects are on [Behance](https://www.behance.net/millieqiu-design)
-- 📝 I regularly write articles on [Medium](https://medium.com/@millieqiuuu)
+- 📝 I regularly write articles on [Medium](https://medium.com/@millieqiuuu) and [CoderBridge](https://millieee-blog.coderbridge.io/)
 
 ### Languages and Tools
 <p align="left">
